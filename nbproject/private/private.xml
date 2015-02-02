@@ -5,12 +5,11 @@
         <group>
             <file>file:/C:/xampp/htdocs/magdalenoa-blog/controller/create-db.php</file>
             <file>file:/C:/xampp/htdocs/magdalenoa-blog/view/header.php</file>
+            <file>file:/C:/xampp/htdocs/magdalenoa-blog/model/config.php</file>
             <file>file:/C:/xampp/htdocs/magdalenoa-blog/view/footer.php</file>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/model/database.php</file>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/</file>
             <file>file:/C:/xampp/htdocs/magdalenoa-blog/index.php</file>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/view/navigation.php</file>
             <file>file:/C:/xampp/htdocs/magdalenoa-blog/post.php</file>
+            <file>file:/C:/xampp/htdocs/magdalenoa-blog/view/navigation.php</file>
         </group>
     </open-files>
 </project-private>
