@@ -3,15 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/controller/create-db.php</file>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/view/form.php</file>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/model/Database.php</file>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/model/config.php</file>
+            <file>file:/C:/xampp/htdocs/magdalenoa-blog/controller/login-user.php</file>
+            <file>file:/C:/xampp/htdocs/magdalenoa-blog/view/login-form.php</file>
             <file>file:/C:/xampp/htdocs/magdalenoa-blog/controller/create-user.php</file>
+            <file>file:/C:/xampp/htdocs/magdalenoa-blog/controller/read-posts.php</file>
             <file>file:/C:/xampp/htdocs/magdalenoa-blog/view/register-form.php</file>
+            <file>file:/C:/xampp/htdocs/magdalenoa-blog/index.php</file>
             <file>file:/C:/xampp/htdocs/magdalenoa-blog/register.php</file>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/controller/create-post.php</file>
-            <file>file:/C:/xampp/htdocs/magdalenoa-blog/post.php</file>
+            <file>file:/C:/xampp/htdocs/magdalenoa-blog/login.php</file>
         </group>
     </open-files>
 </project-private>
