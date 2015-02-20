@@ -1,0 +1,48 @@
+div{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: black;
+    padding: 20px;
+}
+
+.container{
+    border-color: red;
+}
+
+.row{
+    border-color: silver;
+}
+
+.list-group-item{
+    border: 0;
+    margin-top:10;
+    margin-bottom: 10px;
+    background-color: transparent;
+}
+
+body{
+    color: darkcyan;
+}
+
+#projectsbody{
+    color: blue;
+}
+
+#techbody{
+    color: white;
+}
+
+#jumbo{
+    color: white;
+    background-color:red;
+}
+
+#lbj{
+    font-size:100px;
+    color:black;
+}
+
+#button{
+    background-color: maroon;
+    color: black;
+}
